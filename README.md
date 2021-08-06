@@ -1,7 +1,7 @@
-#Installation<br/>
+<h1>Installation<br/>
 pip -r requirements.txt\
 \
-#Run</br>
+<h2>Run</br>
 $env:FLASK_APP = "hello"\
-flask run\
+flask run
 
